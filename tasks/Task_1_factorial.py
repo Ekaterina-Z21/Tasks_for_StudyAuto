@@ -12,7 +12,6 @@ def count_zeros(n):
     return zeros
 
 
-#  n = int(input())  # получение ввода натурального числа
 n = input()
 is_num = n.isdigit()
 try:
